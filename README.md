@@ -58,11 +58,9 @@ arys-rohitrajesh-footpeg-fea/
 
 ├── FEA/
 
-│   ├── static_load_case_1_vertical.png
+│   ├── Von Mises Stresses Analysis.png
 
-│   ├── static_load_case_2_combined.png
-
-│   └── stress_results_summary.png
+│   └── Displacement Magnitude Analysis.png
 
 ├── Report/
 
@@ -94,7 +92,6 @@ Incremental commits made at each stage:
 2. CAD screenshots — v1
 3. CAD screenshots — v2
 4. CAD screenshots — v3 + STEP file
-5. FEA results — load case 1
-6. FEA results — load case 2
-7. Fatigue calculation
-8. Final report PDF
+5. FEA results — Von Mises Stresses
+6. FEA results — Displacement Magnitude
+7. Final report PDF
