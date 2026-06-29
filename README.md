@@ -36,7 +36,7 @@ manufacturability, and structural safety under rider loading.
 | SimScale / SolidWorks Simulation | FEA — static structural analysis |
 | Goodman Criterion (manual) | Fatigue life prediction |
 | Claude (claude.ai) | Report structuring, methodology framing |
-| Microsoft Word / Google Docs | Report documentation |
+| Google Docs | Report documentation |
 | Loom | Demo video recording |
 
 ---
@@ -53,13 +53,15 @@ arys-rohitrajesh-footpeg-fea/
 
 │   ├── footpeg_bracket_v2.png
 
+│   ├── footpeg_bracket_v3.png
+
 │   └── footpeg_assembly.step
 
 ├── FEA/
 
 │   ├── static_load_case_1_vertical.png
 
-│   ├── static_load_case_2_lateral.png
+│   ├── static_load_case_2_combined.png
 
 │   └── stress_results_summary.png
 
@@ -92,11 +94,12 @@ arys-rohitrajesh-footpeg-fea/
 Incremental commits made at each stage:
 1. README + project scope
 2. CAD screenshots — v1
-3. CAD screenshots — v2 + STEP file
-4. FEA results — load case 1
-5. FEA results — load case 2
-6. Fatigue calculation
-7. Final report PDF
-8. Demo video link
+3. CAD screenshots — v2
+4. CAD screenshots — v3 + STEP file
+5. FEA results — load case 1
+6. FEA results — load case 2
+7. Fatigue calculation
+8. Final report PDF
+9. Demo video link
 └── demo_video_link.txt
 
