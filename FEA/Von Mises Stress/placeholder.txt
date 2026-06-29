@@ -1,0 +1,1 @@
+FEA Von Mises Stress analysis files and screenshots for footpeg bracket design
