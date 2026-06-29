@@ -37,6 +37,7 @@ manufacturability, and structural safety under rider loading.
 | Goodman Criterion (manual) | Fatigue life prediction |
 | Claude (claude.ai) | Report structuring, methodology framing |
 | Google Docs | Report documentation |
+| Loom | Screen Recording |
 
 ---
 
@@ -65,6 +66,10 @@ arys-rohitrajesh-footpeg-fea/
 ├── Report/
 
 │   └── Rohit_Rajesh_Footpeg_FEA_Report.pdf
+
+├── Video/
+
+│  ├── Video Link.txt
 
 ---
 
@@ -95,3 +100,4 @@ Incremental commits made at each stage:
 5. FEA results — Von Mises Stresses
 6. FEA results — Displacement Magnitude
 7. Final report PDF
+8. Demo Video Link
